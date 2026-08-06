@@ -21,6 +21,8 @@ and clean handoff documentation.
   https://capfroggy.github.io/replyflow-kit/services/web-tool-automation-landing-page/
 - Small bug fix / code review service:
   https://capfroggy.github.io/replyflow-kit/services/bug-fix-code-review/
+- Free website bug report checklist:
+  https://capfroggy.github.io/replyflow-kit/resources/website-bug-report-checklist/
 - Full-stack developer services:
   https://capfroggy.github.io/replyflow-kit/services/full-stack-developer-automation/
 - Approved Upwork Project Catalog:
