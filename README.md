@@ -7,6 +7,7 @@ and clean handoff documentation.
 ## Available For
 
 - Web tools, calculators, dashboards, forms, and internal utilities
+- Small bug fixes, mobile layout fixes, JavaScript issues, and code reviews
 - Automation scripts for CSV, PDF, spreadsheet, file, and reporting workflows
 - API, webhook, CRM, Google Sheets, and lead-routing integrations
 - Landing pages, service pages, and conversion-focused static sites
@@ -18,6 +19,8 @@ and clean handoff documentation.
   https://capfroggy.github.io/replyflow-kit/
 - Web tool / automation scope builder:
   https://capfroggy.github.io/replyflow-kit/services/web-tool-automation-landing-page/
+- Small bug fix / code review service:
+  https://capfroggy.github.io/replyflow-kit/services/bug-fix-code-review/
 - Full-stack developer services:
   https://capfroggy.github.io/replyflow-kit/services/full-stack-developer-automation/
 - Approved Upwork Project Catalog:
