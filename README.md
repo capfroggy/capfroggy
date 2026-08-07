@@ -10,6 +10,7 @@ and clean handoff documentation.
 - Small bug fixes, mobile layout fixes, JavaScript issues, and code reviews
 - Automation scripts for CSV, PDF, spreadsheet, file, and reporting workflows
 - API, webhook, CRM, Google Sheets, and lead-routing integrations
+- n8n, GoHighLevel, webhook, custom-field, and SMS/email workflow fixes
 - Landing pages, service pages, and conversion-focused static sites
 - AI-assisted intake, classification, follow-up, and human-review workflows
 
@@ -21,6 +22,8 @@ and clean handoff documentation.
   https://capfroggy.github.io/replyflow-kit/services/web-tool-automation-landing-page/
 - Small bug fix / code review service:
   https://capfroggy.github.io/replyflow-kit/services/bug-fix-code-review/
+- n8n / GoHighLevel webhook fix service:
+  https://capfroggy.github.io/replyflow-kit/services/n8n-ghl-webhook-fix/
 - Free website bug report checklist:
   https://capfroggy.github.io/replyflow-kit/resources/website-bug-report-checklist/
 - Full-stack developer services:
